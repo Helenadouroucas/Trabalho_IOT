@@ -1,0 +1,8 @@
+../Core/Src/sys_app.c:89:6:SystemApp_Init	1
+../Core/Src/sys_app.c:103:6:Process_Sys_Notif	3
+../Core/Src/sys_app.c:143:6:UTIL_SEQ_EvtIdle	1
+../Core/Src/sys_app.c:159:9:GetBatteryLevel	1
+../Core/Src/sys_app.c:170:9:GetTemperatureLevel	1
+../Core/Src/sys_app.c:185:13:MBMUXIF_Init	3
+../Core/Src/sys_app.c:253:10:HAL_GetTick	2
+../Core/Src/sys_app.c:284:6:HAL_Delay	1
